@@ -1,0 +1,3 @@
+C:/Users/digen/Documents/Programming/yulia/Algorithms/Algorithms_Lab 3/cmake-build-debug/CMakeFiles/Algorithms_Lab_3.dir
+C:/Users/digen/Documents/Programming/yulia/Algorithms/Algorithms_Lab 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/digen/Documents/Programming/yulia/Algorithms/Algorithms_Lab 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
