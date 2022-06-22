@@ -1,0 +1,1 @@
+/sbin/c++ CMakeFiles/Algorithms_Lab_3.dir/main.cpp.o CMakeFiles/Algorithms_Lab_3.dir/binary_number.cpp.o CMakeFiles/Algorithms_Lab_3.dir/stack.cpp.o -o Algorithms_Lab_3 

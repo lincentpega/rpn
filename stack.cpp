@@ -61,7 +61,7 @@ BinaryNumber Stack::pop() {
     BinaryNumber item;
     item = m_top->m_item;
 
-    // перенаправить указатели pTop, p2
+    // перенаправить указатели m_top, p2
     p2 = m_top;
     m_top = m_top->m_next;
 

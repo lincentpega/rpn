@@ -3,8 +3,9 @@
 
 #include "binary_number.h"
 
-struct NodeStack
+class NodeStack
 {
+public:
     BinaryNumber m_item;
     NodeStack* m_next;
 };
@@ -14,7 +15,6 @@ class Stack
 {
 private:
     NodeStack* m_top;
-
 public:
     Stack() : m_top(nullptr) {}
     ~Stack() {

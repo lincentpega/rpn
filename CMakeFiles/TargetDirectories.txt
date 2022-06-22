@@ -1,0 +1,3 @@
+/home/lincentpega/Documents/Programming/yulia/Algorithms/Algorithms_Lab 3 rpn/CMakeFiles/Algorithms_Lab_3.dir
+/home/lincentpega/Documents/Programming/yulia/Algorithms/Algorithms_Lab 3 rpn/CMakeFiles/edit_cache.dir
+/home/lincentpega/Documents/Programming/yulia/Algorithms/Algorithms_Lab 3 rpn/CMakeFiles/rebuild_cache.dir
